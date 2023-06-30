@@ -1,1 +1,2 @@
-# spring-security-jdbc-userdetails-manager
+# Spring Boot 3 - Spring Security
+- Implementation for JDBC UserDetailsManager
